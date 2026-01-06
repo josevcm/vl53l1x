@@ -3,7 +3,7 @@ You can integrate this component into your ESPHome project by adding the followi
 
 ```yaml
 external_components:
-  - source: github://soldierkam/vl53l1x_sensor
+  - source: github://josevcm/vl53l1x
     refresh: 1s
 ```
 
